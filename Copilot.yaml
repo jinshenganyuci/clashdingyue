@@ -2,7 +2,6 @@
 # https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/Copilot.list
 # Date: 2024-01-05 22:40:35
 payload:
-rules:
   - DOMAIN,api.msn.com
   - DOMAIN,assets.msn.com
   - DOMAIN,copilot.microsoft.com
